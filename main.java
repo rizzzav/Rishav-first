@@ -5,6 +5,5 @@ public class main {
         System.out.println("Hello World!"); //using println for changing line   
         System.out.print("Hello World!\n"); //using \n for changing line
         System.out.print("Hello World!");
-
     }
 }
