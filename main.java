@@ -1,3 +1,4 @@
+//first ever program in java
 public class main {
     public static void main(String[] args) {
         //output
