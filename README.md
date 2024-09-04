@@ -1,2 +1,2 @@
-# Rishav-first
+# rishav-first
 This is my first Git Repository 
